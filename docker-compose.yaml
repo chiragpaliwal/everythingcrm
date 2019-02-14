@@ -1,0 +1,8 @@
+jekyll:
+  container_name: jekyll
+  image: jekyll/builder
+  command: jekyll serve --force_polling JEKYLL_ENV=production
+  ports:
+    - 4000:4000
+  volumes:
+    - .:/srv/jekyll
