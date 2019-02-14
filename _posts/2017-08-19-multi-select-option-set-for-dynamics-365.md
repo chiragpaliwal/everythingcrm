@@ -4,7 +4,7 @@ title:  "Multi-select option set for Dynamics 365"
 description: The most awaited feature of Dynamics 365 is here, multi-select option set. Lets find out everything we need to know about it and try to configure one
 author: piyush
 categories: [ dynamics-365 ]
-image: assets/images/multi-select.jpg
+image: assets/images/multi-select.png
 tags: featured
 ---
 The most awaited and appreciated features of Dynamics 365 is finally here; *drumroll* Introduction of multi-select option sets.

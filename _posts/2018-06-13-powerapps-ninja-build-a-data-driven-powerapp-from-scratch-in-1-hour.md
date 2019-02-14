@@ -3,7 +3,7 @@ layout: post
 title:  "[PowerApps Ninja] - Build a data-driven PowerApp from Scratch in 1 hour"
 description: Complete step by step video demonstrating how to build a data-driven PowerApp from scratch
 author: piyush
-image: assets/images/powerapps-ninja.jpg
+image: assets/images/powerapps-ninja.png
 categories: [ powerapps ]
 tags: featured
 ---
