@@ -7,7 +7,7 @@ image: assets/images/powerapps-flow.jpg
 categories: [ powerapps, flow ]
 tags: featured
 ---
-<iframe style="width:100%;" height="315" src="https://www.youtube.com/watch?v=fupm3GVKaq8" frameborder="0" allowfullscreen></iframe>
+<iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/fupm3GVKaq8" frameborder="0" allowfullscreen></iframe>
 
 This video talks about all the aspects of the integration between Microsoft Flow and Microsoft Powerapps
 

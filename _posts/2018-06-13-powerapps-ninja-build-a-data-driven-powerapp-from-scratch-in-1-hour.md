@@ -7,7 +7,7 @@ image: assets/images/powerapps-ninja.jpg
 categories: [ powerapps ]
 tags: featured
 ---
-<iframe style="width:100%;" height="315" src="https://www.youtube.com/watch?v=xtkQjWktDos" frameborder="0" allowfullscreen></iframe>
+<iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/xtkQjWktDos" frameborder="0" allowfullscreen></iframe>
 
 This video focusses on building a data-driven PowerApp from scratch within one hour.
 Following major topics are getting covered
