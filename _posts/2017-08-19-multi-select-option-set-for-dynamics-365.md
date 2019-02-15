@@ -4,7 +4,7 @@ title:  "Multi-select option set for Dynamics 365"
 description: The most awaited feature of Dynamics 365 is here, multi-select option set. Lets find out everything we need to know about it and try to configure one
 author: piyush
 categories: [ dynamics-365 ]
-image: assets/images/multi-select.png
+image: assets/images/multi-select.webp
 tags: featured
 ---
 The most awaited and appreciated features of Dynamics 365 is finally here; *drumroll* Introduction of multi-select option sets.
@@ -20,13 +20,13 @@ Continuing from the above example, this is what we want to achieve; We should be
 Creating an option set is very simple, and you would have done it multiple times via customization. Let’s start there.
 Go to **Account** entity and **Create a new field** in it and let’s name it **Tags**.
 
-![Multi select option set field creation](/assets/images/Multi-select-option-set-field-creation.png "Multi select option set field creation")
+![Multi select option set field creation](/assets/images/Multi-select-option-set-field-creation.webp "Multi select option set field creation")
 
 Notice in the image above there is a new data-type called MultiSelect Option Set, rest everything is pretty much the same as creating any other option-set. 
 
 For our example, I have added the necessary options with relevant colors and added this newly created field on Account form. Take a look at the screenshot.
 
-![Multi select option set display](/assets/images/Multi-select-option-set-display.png "Multi select option set display")
+![Multi select option set display](/assets/images/Multi-select-option-set-display.webp "Multi select option set display")
 
 You can select multiple values now and save the record like usual. It’s that simple.
 
@@ -35,7 +35,7 @@ You can select multiple values now and save the record like usual. It’s that s
 ## Search via advanced find
 Searching for a specific value in a multi-select option set is very simple and pretty straight-forward; just the way you would select multiple values for a lookup field. Here, take a look.
 
-![Multi select option set advanced find](/assets/images/Multi-select-option-set-advanced-find.png "Multi select option set advanced find")
+![Multi select option set advanced find](/assets/images/Multi-select-option-set-advanced-find.webp "Multi select option set advanced find")
 
 ## Ok, I got it but what about programmability?
 Its is the best part. MultiSelect Option set primarily supports all the client APIs that are available for standard option sets.

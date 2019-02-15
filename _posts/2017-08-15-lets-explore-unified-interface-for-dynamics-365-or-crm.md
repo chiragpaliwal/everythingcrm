@@ -3,7 +3,7 @@ layout: post
 title:  "Let’s explore Unified Interface for Dynamics 365 or CRM"
 author: piyush
 categories: [ dynamics-365, unified-interface ]
-image: assets/images/Unified_Interface_Dynamics_365_CRM.png
+image: assets/images/Unified_Interface_Dynamics_365_CRM.webp
 tags: featured
 ---
 So by now you might have already heard or read about the new Unified Interface that Microsoft is working on for its Dynamics 365 or as I like to call it Dynamics CRM platform and it will ship along with the latest version of CRM i.e. **9.0**.
@@ -34,12 +34,12 @@ Lets explore each of them one by one.
 ### Field labels and values are now the wrapped
 Take a look at the highlights below. I changed the account name field to some long text and how it shows up now. The same goes for the field value. Isn’t it great news.
 
-![Unified Interface - Lable Wrapping](/assets/images/Unified_Interface_label_wrapping.png "Unified Interface - Label Wrapping")
+![Unified Interface - Lable Wrapping](/assets/images/Unified_Interface_label_wrapping.webp "Unified Interface - Label Wrapping")
 
 ### Removal of white space, section headings and merging of header and body sections
 All the white space that you saw in the previous versions of CRM is now all gone and replaced with nice borders, section headers and input fields now display dashed line spanning across the entire width of the section.
 
-![Unified Interface - Form Layout - borders](/assets/images/Unified_Interface_form_layout_borders.png "Unified Interface - Form Layout - borders")
+![Unified Interface - Form Layout - borders](/assets/images/Unified_Interface_form_layout_borders.webp "Unified Interface - Form Layout - borders")
 
 * Orange arrow – shows the border and section heads
 * Yellow arrow – shows how the dashed lines are placed for input fields
@@ -49,31 +49,31 @@ All the white space that you saw in the previous versions of CRM is now all gone
 ### Section colors on form
 It is totally new, you can now change the color of any section on any entity’s form just by going to section properties.
 
-![Unified Interface - Section Header color](/assets/images/Unified_Interface_section_header_color.png "Unified Interface - Section Header color")
+![Unified Interface - Section Header color](/assets/images/Unified_Interface_section_header_color.webp "Unified Interface - Section Header color")
 
-![Unified Interface - Section Header color](/assets/images/Unified_Interface_section_header_color_2.png "Unified Interface - Section Header color")
+![Unified Interface - Section Header color](/assets/images/Unified_Interface_section_header_color_2.webp "Unified Interface - Section Header color")
 
 ### Highlighting focus field when using Keyboard for form navigation
 See the screenshot below and you’d notice the black dashed border around the current input field. That is because I used `Tab` to reach this field and now it gives me a visual indication of the focussed field
 
-![Unified Interface - Focus field](/assets/images/Unified_Interface_focus_field.png "Unified Interface - Focus field")
+![Unified Interface - Focus field](/assets/images/Unified_Interface_focus_field.webp "Unified Interface - Focus field")
 
 ### Quick Create UI tweaks
 Quick create hasn’t been spared either, it now opens in a very neat fashion blurring out the background to get user’s attension.
 
-![Quick create form](/assets/images/Quick_create_form.png "Quick create form")
+![Quick create form](/assets/images/Quick_create_form.webp "Quick create form")
 
 ## New themes available
 As I stated earlier, new color themes have been introduced. You can go ahead and change them from `Settings > Customizations > Themes`
 
 ### Blue Theme
-![Blue Theme](/assets/images/Blue_theme.png "Blue Theme")
+![Blue Theme](/assets/images/Blue_theme.webp "Blue Theme")
 
 ### Orange Theme
-![Orange Theme](/assets/images/Orange_theme.png "Orange Theme")
+![Orange Theme](/assets/images/Orange_theme.webp "Orange Theme")
 
 ### Default Theme
-![Default Theme](/assets/images/Default_theme.png "Default Theme")
+![Default Theme](/assets/images/Default_theme.webp "Default Theme")
 
 ## Other notable UI stuff
 * The whole UI is now responsive
