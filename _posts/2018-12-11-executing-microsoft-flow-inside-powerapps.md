@@ -3,7 +3,7 @@ layout: post
 title:  "Executing Microsoft Flow inside PowerApps"
 description: This video talks about all the aspects of the integration between Microsoft Flow and Microsoft Powerapps
 author: piyush
-image: assets/images/powerapps-flow.png
+image: assets/images/powerapps-flow.webp
 categories: [ powerapps, flow ]
 tags: featured
 ---

@@ -28,7 +28,7 @@ function DisplayAge(executionContext) {
 ```
 Notice that in this code, I am retrieving the value from `Age` field, now naturally we will be required to place this field on the form, right? No, that’s wrong, that’s where injecting dependencies will come in picture. While creating the web resource, there would be a new tab called as `Dependencies`.
 
-![JavaScript Web Resource dependency injection screen](/assets/images/Dependencies_JavaScript_WebResource.png "JavaScript Web Resource dependency injection screen")
+![JavaScript Web Resource dependency injection screen](/assets/images/Dependencies_JavaScript_WebResource.webp "JavaScript Web Resource dependency injection screen")
 
 You have the following options available with you
 
@@ -39,11 +39,11 @@ You have the following options available with you
 ## What happens when this script loads?
 Now, I just added the dependency and published all my changes, notice that we have not put this field on Account form yet. It should still give you the result and output the value of Age.
 
-![Age field value is output based on the script we wrote above](/assets/images/Age-field-output.png "Age field value is output based on the script we wrote above")
+![Age field value is output based on the script we wrote above](/assets/images/Age-field-output.webp "Age field value is output based on the script we wrote above")
 
 And boom! it just works! Now, lets try to remove this dependency and see what changes.
 
-![Script output after removal of age field from JavaScript web resource dependency](/assets/images/Age-field-error.png "Script output after removal of age field from JavaScript web resource dependency")
+![Script output after removal of age field from JavaScript web resource dependency](/assets/images/Age-field-error.webp "Script output after removal of age field from JavaScript web resource dependency")
 
 So there we have it, no more hidden fields on the form.
 
@@ -52,6 +52,6 @@ So there we have it, no more hidden fields on the form.
 * No unexpected script failures as the system will always ensure that the value of this field is available for your script to use.
 * System Customizers will be given a warning when they try to delete this field, which happens all the time and results in script failures.
 
-![Age field dependencies](/assets/images/ShowDependencies.png "Age field dependencies")
+![Age field dependencies](/assets/images/ShowDependencies.webp "Age field dependencies")
 
 So, there you have it, everything you need to know about JavaScript Web Resource dependencies. Happy CRMing!

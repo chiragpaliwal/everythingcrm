@@ -24,7 +24,7 @@ So, what do we do.
 ## Google Chrome Profiles
 There is a very neat feature available inside chrome which allows users to create multiple profiles. All you have to do is on the top right corner of the chrome window, click the user icon and select Manage People.
 
-![Manage People](/assets/images/Manage_People.png "Manage People")
+![Manage People](/assets/images/Manage_People.webp "Manage People")
 
 This will open up a new window which will show all the user profiles that are available on the system. This is where you will have an option to Add Person.
 
@@ -32,10 +32,10 @@ This will open up a new window which will show all the user profiles that are av
 
 So, if I have 3 Office 365 domains to manage then I will create 3 Persons in chrome.
 
-![Add Person's window in Chrome](/assets/images/Add_Persons_Window_Chrome.png "Add Person's window in Chrome")
+![Add Person's window in Chrome](/assets/images/Add_Persons_Window_Chrome.webp "Add Person's window in Chrome")
 
 The next thing you need to do is open up each of these profiles you just created and login to that particular Office 365 account and ensure you tick the option that says Stay logged in and you are done. The next time you open this profile, Chrome will know which account to open up for you.
 
-![Switch Profiles in Chrome](/assets/images/Profile_Switcher.png "Switch Profiles in Chrome")
+![Switch Profiles in Chrome](/assets/images/Profile_Switcher.webp "Switch Profiles in Chrome")
 
 > The additional benefit here is that you don’t need to Login ever. Just open the right profile and you are good to go
