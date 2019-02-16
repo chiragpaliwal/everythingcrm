@@ -8,7 +8,9 @@ disqus: 'everythingcrm'
 email: 'ppaliwal.89@gmail.com'
 mailchimp-list: 'https://everythingcrm.us19.list-manage.com/subscribe/post?u=19ec8dca0b80466e068c16816&amp;id=430d3c0c76'
 
-include: ["_pages"]
+include: 
+  - "_pages"
+  - "_headers"
 permalink: /:categories/:year/:title
 
 # Plugins
